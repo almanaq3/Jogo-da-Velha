@@ -16,4 +16,4 @@ Modo Player vs. Computador: Jogue contra um adversário automático.
 Efeitos Visuais: Partículas de emoji aparecem quando há um vencedor.
 Reinício Rápido: Reinicie o jogo com um clique.
 
-<p align="center">Desenvolvido por almanaq3</p> ```
+<p align="center">Desenvolvido por almanaq3</p>
